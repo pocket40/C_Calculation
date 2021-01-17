@@ -139,7 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CommaOp.c" />
+    <ClCompile Include="Complex_Assignment_Operator.c" />
+    <ClCompile Include="AddOperator.c" />
+    <ClCompile Include="OperatorFive.c" />
+    <ClCompile Include="OperatorOne.c" />
+    <ClCompile Include="OperatorSeven.c" />
+    <ClCompile Include="OperatorSix.c" />
+    <ClCompile Include="OperatorThree.c" />
+    <ClCompile Include="Practice.c" />
     <ClCompile Include="SimpleAddOne.c" />
+    <ClCompile Include="VarDeclAndLnit.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
